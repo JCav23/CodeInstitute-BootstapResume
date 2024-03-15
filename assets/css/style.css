@@ -38,6 +38,15 @@
     background-color: #fff;
 }
 
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 /* --------------------------------- Heading */
 header {
     margin: 0;
@@ -334,6 +343,9 @@ footer {
     margin-bottom: 30px;
 }
 
+/* --------------------------------- Map */
+
+div#map {min-height: 360px;}
 
 /* --------------------------------- Contact Form */
 
